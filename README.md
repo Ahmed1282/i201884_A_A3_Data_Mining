@@ -48,4 +48,4 @@ The script performs the following steps:
 
    ```bash
    git clone https://github.com/Ahmed1282/i201884_A_A3_Data_Mining.git
-   cd your_repository
+   cd i201884_A_A3_Data_Mining
