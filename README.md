@@ -47,5 +47,5 @@ The script performs the following steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Ahmed1282/i201884_A_A3_Data_Mining.git
    cd your_repository
